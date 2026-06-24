@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "DISTRICT": "Agar Malwa" }, "geometry": { "type": "Polygon", "coordinates": [[[76.1, 23.4], [76.8, 23.4], [76.8, 24.0], [76.1, 24.0], [76.1, 23.4]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Dhar" }, "geometry": { "type": "Polygon", "coordinates": [[[74.6, 22.0], [75.5, 22.0], [75.5, 22.8], [74.6, 22.8], [74.6, 22.0]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Sehore" }, "geometry": { "type": "Polygon", "coordinates": [[[76.2, 22.6], [77.0, 22.6], [77.0, 23.3], [76.2, 23.3], [76.2, 22.6]]] } }
+  ]
+}

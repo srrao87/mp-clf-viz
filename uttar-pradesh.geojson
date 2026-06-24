@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "DISTRICT": "Varanasi" }, "geometry": { "type": "Polygon", "coordinates": [[[82.7, 25.0], [83.3, 25.0], [83.3, 25.6], [82.7, 25.6], [82.7, 25.0]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Bahraich" }, "geometry": { "type": "Polygon", "coordinates": [[[81.3, 27.2], [82.0, 27.2], [82.0, 27.9], [81.3, 27.9], [81.3, 27.2]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Gorakhpur" }, "geometry": { "type": "Polygon", "coordinates": [[[83.0, 26.5], [83.8, 26.5], [83.8, 27.2], [83.0, 27.2], [83.0, 26.5]]] } }
+  ]
+}

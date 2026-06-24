@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "DISTRICT": "Bokaro" }, "geometry": { "type": "Polygon", "coordinates": [[[85.8, 23.4], [86.4, 23.4], [86.4, 24.0], [85.8, 24.0], [85.8, 23.4]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Khunti" }, "geometry": { "type": "Polygon", "coordinates": [[[85.1, 22.8], [85.7, 22.8], [85.7, 23.4], [85.1, 23.4], [85.1, 22.8]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Ranchi" }, "geometry": { "type": "Polygon", "coordinates": [[[85.2, 23.1], [85.9, 23.1], [85.9, 23.8], [85.2, 23.8], [85.2, 23.1]]] } }
+  ]
+}

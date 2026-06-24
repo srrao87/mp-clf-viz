@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "DISTRICT": "Gaya" }, "geometry": { "type": "Polygon", "coordinates": [[[84.8, 24.8], [85.4, 24.8], [85.4, 25.4], [84.8, 25.4], [84.8, 24.8]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Nalanda" }, "geometry": { "type": "Polygon", "coordinates": [[[85.3, 25.0], [85.9, 25.0], [85.9, 25.6], [85.3, 25.6], [85.3, 25.0]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Araria" }, "geometry": { "type": "Polygon", "coordinates": [[[87.2, 26.0], [87.9, 26.0], [87.9, 26.6], [87.2, 26.6], [87.2, 26.0]]] } }
+  ]
+}

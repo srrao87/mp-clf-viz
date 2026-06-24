@@ -1,0 +1,8 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "DISTRICT": "Balod" }, "geometry": { "type": "Polygon", "coordinates": [[[81.0, 20.4], [81.7, 20.4], [81.7, 21.0], [81.0, 21.0], [81.0, 20.4]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Dhamtari" }, "geometry": { "type": "Polygon", "coordinates": [[[81.6, 20.2], [82.2, 20.2], [82.2, 20.8], [81.6, 20.8], [81.6, 20.2]]] } },
+    { "type": "Feature", "properties": { "DISTRICT": "Kanker" }, "geometry": { "type": "Polygon", "coordinates": [[[80.9, 19.7], [81.8, 19.7], [81.8, 20.4], [80.9, 20.4], [80.9, 19.7]]] } }
+  ]
+}
